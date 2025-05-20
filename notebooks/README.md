@@ -67,10 +67,12 @@ jupyter notebook notebooks/Projeto_Extracao_Pracaxi.ipynb
 ## 🧠 Autor
 
 Gustavo Neves da Paz Rafael
-Projeto acadêmico em ciência de dados com aplicação em química experimental
+
+Projeto acadêmico em Ciência de Dados com aplicação em química experimental
 
 ---
 
 ## 📚 Referência
 
-> *Optimization of bioactive compound extraction from pracaxi residues by ultrasound-assisted process*
+> *Optimization of bioactive compound extraction from pracaxi residues by ultrasound-assisted process*, **Luiza Helena**
+
