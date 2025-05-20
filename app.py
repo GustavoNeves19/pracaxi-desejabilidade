@@ -99,4 +99,4 @@ fig3.update_layout(title="Desejabilidade: Etanol x Razão", scene=dict(xaxis_tit
 st.plotly_chart(fig3)
 
 st.markdown("---")
-st.caption("Aplicação interativa baseada em modelos de extração por ultrassom - Gustavo Neves")
+st.caption("Aplicação de Ciência de Dados de forma interativa baseada em modelos de extração por ultrassom - Gustavo Neves")
