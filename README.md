@@ -3,9 +3,38 @@
 Este projeto disponibiliza uma aplicação interativa em **Streamlit** para simular e visualizar a **desejabilidade global** de extração de compostos bioativos a partir do Pracaxi, baseada em modelos estatísticos ajustados com dados experimentais e orientações de um artigo científico de referência.
 
 🔗 **Acesse a aplicação online aqui**:  
-👉 [https://pracaxi-desejabilidade-9dfzvxafencva7jawo8k76.streamlit.app/](https://pracaxi-desejabilidade-9dfzvxafencva7jawo8k76.streamlit.app/)
+👉 [https://pracaxi-desejabilidade-9dfzvxafencva7jawo8k76.streamlit.app/](Pracaxi-Desejabilidade)
 
 ---
+
+## ⚙️ Tecnologias e Bibliotecas
+
+- Python
+- pandas, numpy
+- statsmodels
+- matplotlib, seaborn, plotly
+- Streamlit
+
+---
+
+## 📁 Estrutura do Repositório
+
+```bash
+Natural-Language-Processing/
+├── app/    
+│   ├── app.py               # Script principal com a interface Streamlit
+│   ├── modelos.py           # Modelos polinomiais para ABTS, TPC e TF
+│   ├── desejabilidade.py    # Funções para cálculo da desejabilidade global
+├── data/                   
+│   ├── data_pracaxi.xlsx    # Base de Dados Bruto 
+│   ├── data-treated-pracaxi   # Base de Dados Tratados
+├── notebooks/                
+│   ├── Projeto_Extracao_Pracaxi.ipynb   # Notebooks de análise estatística
+│   ├── README.md   # Explicação técnica da modelagem e análises
+└── requirements.txt # Lista de Bibliotecas usadas no projeto
+└── gitignore   # Arquivos e pastas a serem ignorados no controle de versão
+└── README.md               # Este documento
+```
 
 ## 📌 Objetivo
 
@@ -73,7 +102,7 @@ streamlit run app.py
 
 **Gustavo Neves da Paz Rafael**
 
-Projeto acadêmico em ciência de dados, com base em artigo científico sobre extração por ultrassom.
+Cientista de dados em formação | Grupo de Pesquisa em IA e Simulação Aplicado à Ciência de Alimentos (UFRA)
 
 ---
 
