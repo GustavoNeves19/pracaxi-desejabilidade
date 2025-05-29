@@ -52,7 +52,7 @@ Certifique-se de que os seguintes pacotes estão listados no `requirements.txt` 
 ## 📎 Observações
 
 - Este módulo foi construído com foco em **modularização e clareza**, permitindo fácil manutenção e futuras extensões (ex: integração com redes neurais ou banco de dados).
-- Os dados são carregados diretamente do arquivo `data/df_tratado.csv`, portanto mantenha a estrutura de pastas organizada.
+- Os dados são carregados diretamente do arquivo `data/data_pracaxi.csv`, portanto mantenha a estrutura de pastas organizada.
 
 ---
 

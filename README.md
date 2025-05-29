@@ -3,7 +3,7 @@
 Este projeto disponibiliza uma aplicação interativa em **Streamlit** para simular e visualizar a **desejabilidade global** de extração de compostos bioativos a partir do Pracaxi, baseada em modelos estatísticos ajustados com dados experimentais e orientações de um artigo científico de referência.
 
 🔗 **Acesse a aplicação online aqui**:  
-👉 [https://pracaxi-desejabilidade-9dfzvxafencva7jawo8k76.streamlit.app/](Pracaxi-Desejabilidade)
+👉 [Pracaxi-Desejabilidade](https://pracaxi-desejabilidade-eqch6wnfpbnnhmmwrnpj9i.streamlit.app/)
 
 ---
 
