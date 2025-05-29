@@ -25,13 +25,13 @@ Natural-Language-Processing/
 │   ├── app.py               # Script principal com a interface Streamlit
 │   ├── modelos.py           # Modelos polinomiais para ABTS, TPC e TF
 │   ├── desejabilidade.py    # Funções para cálculo da desejabilidade global
+└── ├── requirements.txt # Lista de Bibliotecas usadas no projeto
 ├── data/                   
 │   ├── data_pracaxi.xlsx    # Base de Dados Bruto 
 │   ├── data-treated-pracaxi   # Base de Dados Tratados
 ├── notebooks/                
 │   ├── Projeto_Extracao_Pracaxi.ipynb   # Notebooks de análise estatística
 │   ├── README.md   # Explicação técnica da modelagem e análises
-└── requirements.txt # Lista de Bibliotecas usadas no projeto
 └── gitignore   # Arquivos e pastas a serem ignorados no controle de versão
 └── README.md               # Este documento
 ```
